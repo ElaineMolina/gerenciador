@@ -1,4 +1,4 @@
-package br.com.molina.gerenciador.servlet;
+package br.com.molina.gerenciador.modelo;
 
 import java.util.Date;
 
